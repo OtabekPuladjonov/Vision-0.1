@@ -1,0 +1,6 @@
+Vision 0.1
+To use the application properly, the machine should have a valid camera 
+and when the application starts to display frames from the camera lift up 
+your hand and show it to the camera then put your hand down in 2 seconds
+after that program takes a picture then detects objects in front of it then 
+Reads out object names. 
